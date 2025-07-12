@@ -1,7 +1,7 @@
 # 👋 Welcome to My GitHub Profile
 
 ## 🔧 React.js Projects
-- [Portfolio Website](https://github.com/yourusername/portfolio-website)
+- [Tic-Tac-Toe Game](https://github.com/NtokozoMsibi07/tic-tac-toe-react.git)
 - [React Dashboard](https://github.com/yourusername/react-dashboard)
 
 ## 📊 Data Science Projects
