@@ -2,9 +2,9 @@
 
 ## 🔧 React.js Projects
 - [Tic-Tac-Toe Game](https://github.com/NtokozoMsibi07/tic-tac-toe-react.git)
-- [React Dashboard](https://github.com/yourusername/react-dashboard)
+- [Airbnb Clone](https://github.com/NtokozoMsibi07/capstone-project.git)
 
-## 📊 Data Science Projects
+## 📊 Angular typescript Project
 - [Covid-19 Data Analysis](https://github.com/yourusername/covid19-analysis)
 - [ML Model for Predictions](https://github.com/yourusername/ml-predictions)
 
