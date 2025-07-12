@@ -5,7 +5,7 @@
 - [Airbnb Clone](https://github.com/NtokozoMsibi07/capstone-project.git)
 
 ## 📊 Angular typescript Project
-- [Covid-19 Data Analysis](https://github.com/yourusername/covid19-analysis)
+- [Amazon-clone AWS](https://github.com/NtokozoMsibi07/Amazon-clone.git)
 - [ML Model for Predictions](https://github.com/yourusername/ml-predictions)
 
 ## 🧪 Experiments
