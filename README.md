@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Welcome to My GitHub Profile
 
-<!--
-**NtokozoMsibi07/NtokozoMsibi07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 React.js Projects
+- [Portfolio Website](https://github.com/yourusername/portfolio-website)
+- [React Dashboard](https://github.com/yourusername/react-dashboard)
 
-Here are some ideas to get you started:
+## 📊 Data Science Projects
+- [Covid-19 Data Analysis](https://github.com/yourusername/covid19-analysis)
+- [ML Model for Predictions](https://github.com/yourusername/ml-predictions)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧪 Experiments
+- [Three.js Visuals](https://github.com/yourusername/threejs-visuals)
+- [Rust Playground](https://github.com/yourusername/rust-playground)
