@@ -11,6 +11,7 @@
 ## React-Native Projects
 - [Movie-App](https://github.com/NtokozoMsibi07/My-Native-app.git): A mobile app displaying popular movies using React Native and API integration for fetching movie data.
 
-## Basic Html & CSS, Frontend 
+## Basic Html & CSS ,JavaScript, Frontend 
 - [Youtube landing Page](https://github.com/NtokozoMsibi07/Youtube-Zaio.git): A web design cloning YouTube landing Page
+- [Google Keep](https://github.com/NtokozoMsibi07/Google-Keep-Ntokozo.git): Recreating Google keep(web) Includes Routing and JS
 
